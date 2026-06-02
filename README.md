@@ -12,12 +12,6 @@
     learn about low end programming languages like Assembly to discover new ways to mess with stuff or even develop a new operating system. Last but not least, interested in
     system architecture/development.
   </p>
-  
-
-<h2 align="center">
-  <p>Statistics</p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nico-madruga&theme=tokyonight" alt="GitHub Streak Stats" />
-</h2>
 
 <h2 align="center">
   Languages
@@ -42,18 +36,27 @@
 
 <h2 align="center"> 
   Operational Systems
+
+
 </h2>
 <h4 align="center">
-  
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=windows,linux)
+
+  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=windows,linux)
+</h4>
+
+<h2 align="center">
+  <p>Statistics</p>
+</h2>
+<h4 align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nico-madruga&theme=tokyonight" alt="GitHub Streak Stats" />
 </h4>
 
 <h2 align="center">
   Contacts
 </h2>
 
-<p align="center">
+<h4 align="center">
   <a href="https://github.com/NicoGamer11">GitHub</a>
-</p>
+</h4>
 
 ---
