@@ -7,19 +7,6 @@
 
 ---
 
-### 📚 Tecnologias & Ferramentas
-<p align="left">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-%234A4A4A.svg?style=for-the-badge&logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-%231679A7.svg?style=for-the-badge&logo=wireshark&logoColor=white" />
-</p>
-
----
-
 ### 📊 Minhas Estatísticas
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=NicoGamer11&theme=tokyonight)
 ---
