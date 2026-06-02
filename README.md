@@ -1,55 +1,58 @@
 <h1 align="center" background-color=blue>Nicolas Madruga Sousa</h1>
 
 <p align="center">
-  Estudante de Desenvolvimento de Sistemas <br>
-  💻 Explorando programação e segurança da informação <br>
+  System Development and Analysis Student <br>
+  Studying Cybersecurity <br>
 </p>
 
----
+<h2 align="center">Objectives</h2>
+  
+  <p align="center">
+    I look forward to becoming a security professional, studying how security tools and how to use high end programming languages and methods to pentest testing. I also want to
+    learn about low end programming languages like Assembly to discover new ways to mess with stuff or even develop a new operating system. Last but not least, interested in
+    system architecture/development.
+  </p>
+  
 
-### 📊 Minhas Estatísticas
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=NicoGamer11&theme=tokyonight)
----
+<h2 align="center">
+  <p>Statistics</p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nico-madruga&theme=tokyonight" alt="GitHub Streak Stats" />
+</h2>
 
-## 📚 Atualmente aprendendo
+<h2 align="center">
+  Languages
+</h2>
+<h4 align="center">
+  <p>Backend</p>
 
-- ☕ Java e Programação Orientada a Objetos
-- 🐍 Python para automação e segurança
-- 🗄 Banco de dados e SQL
-- 🔐 Conceitos de Cybersecurity
-- 🐧 Linux e terminal
-- 🌐 Redes de computadores 
+  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cs,java,bash)
+  <p>Frontend</p>
 
----
+  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=css,html)
+</h4>
 
-## 📈 Objetivos
 
-- Evoluir como desenvolvedor
-- Aprender mais sobre segurança ofensiva e defensiva
-- Criar projetos próprios
-- Compartilhar minha evolução na programação
+<h2 align="center"> 
+  Tools
+</h2>
+<h4 align="center">
+  
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=burpsuite,wireshark,idea,git,vim)
+</h4>
 
----
+<h2 align="center"> 
+  Operational Systems
+</h2>
+<h4 align="center">
+  
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=windows,linux)
+</h4>
 
-## 🚀 Tecnologias e Ferramentas
+<h2 align="center">
+  Contacts
+</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-%234A4A4A.svg?style=for-the-badge&logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-%231679A7.svg?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/BurpSuite-%23FF6633.svg?style=for-the-badge&logo=burpsuite&logoColor=white" />
-</p>
-
----
-
-## 📫 Contato
-
-<p>
   <a href="https://github.com/NicoGamer11">GitHub</a>
 </p>
 
