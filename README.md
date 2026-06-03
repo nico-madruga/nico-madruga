@@ -57,6 +57,8 @@
 
 <h4 align="center">
   <a href="https://github.com/NicoGamer11">GitHub</a>
+  /
+  <a href="https://www.instagram.com/nico_madruga/">Instagram</a>
 </h4>
 
 ---
