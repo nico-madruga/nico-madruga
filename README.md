@@ -19,10 +19,10 @@
 <h4 align="center">
   <p>Backend</p>
 
-  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cs,java,bash)
+  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cs,java,python,bash)
   <p>Frontend</p>
 
-  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=css,html)
+  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=css,html,javascript)
 </h4>
 
 
