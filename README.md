@@ -8,7 +8,7 @@
 <h2 align="center">Objectives</h2>
   
   <p align="center">
-    I look forward to becoming a security professional, studying how security tools and how to use high end programming languages and methods to pentest testing. I also want to
+    I look forward to becoming a security professional, studying how security tools work and how to use high end programming languages and methods to pentest testing. I also want to
     learn about low end programming languages like Assembly to discover new ways to mess with stuff or even develop a new operating system. Last but not least, interested in
     system architecture/development.
   </p>
